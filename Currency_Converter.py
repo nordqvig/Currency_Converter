@@ -1,4 +1,3 @@
-import requests
 import yfinance as yf
 
 msft = yf.Ticker("USDSEK=X")
