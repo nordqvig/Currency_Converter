@@ -1,4 +1,4 @@
-# Currency Converter
+# Currency Converter (in progress)
 
 ### Currency converter that uses yfinance to fetch exchange rates and convert amounts in different currencies.
 
